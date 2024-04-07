@@ -1,3 +1,7 @@
+h1 {font-style:italic;
+
+}
+
 body{
     
     background-image: url(./img/fundo\ 2.jpg);
@@ -11,8 +15,6 @@ body{
     font-style: italic;
     text-align: center;
          
-   
-    
 
+ }
 
-}
