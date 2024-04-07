@@ -1,0 +1,18 @@
+body{
+    
+    background-image: url(./img/fundo\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    backface-visibility:visible;    
+    
+    color:yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    font-style: italic;
+    text-align: center;
+   
+    
+
+
+}
