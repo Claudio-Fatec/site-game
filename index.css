@@ -7,7 +7,7 @@ ul{display: flex;}
 body{
     
     background-image: url(./img/fundo\ 2.jpg);
-    background-size:unset
+    background-size:unset;
     background-position: center;
     backface-visibility:visible;    
     
@@ -15,8 +15,6 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:large;
     font-style: italic;
-    text-align: center;
-         
-
+    
  }
 
