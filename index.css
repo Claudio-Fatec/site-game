@@ -2,6 +2,8 @@ h1 {font-style:italic;
 
 }
 
+ul{display: flex;}
+
 body{
     
     background-image: url(./img/fundo\ 2.jpg);
