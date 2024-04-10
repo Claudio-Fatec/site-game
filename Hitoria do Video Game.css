@@ -1,0 +1,38 @@
+
+
+h1{text-align: center;
+font-weight: 500;
+color: yellow;
+font-size: xx-large;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 600;
+font-style: oblique;
+}
+ul{display: flex;}
+
+body{
+    
+    background-image: url(./img/fundo\ 2.jpg);
+    background-size:unset;
+    background-position: center;
+    backface-visibility:visible;    }
+    
+   p{color:yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    font-style: italic;}
+    
+ }
+
+header p {
+	color: white;
+	font-size: 1em;
+	padding: 0px;
+	padding-top: 20px;
+	text-align: center;
+	text-shadow: var(--box-shadow-padrao-texto)
+}
+h3{text-align: center;
+color:red;
+background-color: aliceblue;
+}
