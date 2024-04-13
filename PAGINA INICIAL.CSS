@@ -1,7 +1,9 @@
-BODY{background-image: url(./img/fundo\ 2.jpg);
-    background-size:unset;
-    background-position: center;
-    backface-visibility:visible;}
+BODY{height: 100vh;
+    background-image: url(./img/fundo\ 2.jpg);
+    background-size:100% 100%;
+    backface-visibility:visible;
+background-position: center top;
+background-repeat: no-repeat;}
 
     a{color: aliceblue; text-decoration:none;
     font-family:fantasy;
@@ -27,6 +29,10 @@ font-size: larger; }
     background-position-x: center   ;
     
 }
+ .container {background-color: chocolate;
+ba
+font-style: border: 
+text-align:color-interpolation-filters:;;}
     
     
     
