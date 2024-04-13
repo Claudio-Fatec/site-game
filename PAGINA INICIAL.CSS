@@ -20,19 +20,18 @@ font-size: larger; }
         h1{text-align: center;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             color: blue;
             font-size:xx-large;
-            font-family:Georgia, 'Times New Roman', Times, serif;
-            
-            
-        }
-   h1{background-image: url(./img/folder.webp);
-    background-size: 100%;
-    background-position-x: center   ;
+            font-family:Georgia, 'Times New Roman', Times, serif;         
+                  
     
 }
  .container {background-color: chocolate;
-ba
-font-style: border: 
-text-align:color-interpolation-filters:;;}
+font-style: border; 
+align-items:center;
+h2 text-align: center;;
+}
+
+.titulo {font-size:60% 60% 60%;
+}
     
     
     
