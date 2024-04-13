@@ -1,9 +1,11 @@
-BODY{height: 100vh;
-    background-image: );
+body    {height: 100vh;
     background-size:100% 100%;
-    backface-visibility:visible;
-background-position: center top;
-background-repeat: no-repeat;}
+    background-position: center top;
+    background-repeat: no-repeat;
+   
+
+  
+}
 
     a{color: aliceblue; text-decoration:none;
     font-family:fantasy;
@@ -32,7 +34,11 @@ h2 text-align: center;;
 
 .titulo {font-size:60% 60% 60%;
 }
- 
+
+.p1 {width: 50%;background-color: coral; font-family:sans-serif;
+} 
+
+
 
     
     
