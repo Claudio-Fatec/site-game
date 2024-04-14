@@ -2,7 +2,7 @@
 
 
 
-link site: https://gamerdiabetico.netlify.app/
+link site: https://gamerd.netlify.app
 Bem-vindo ao repositório do GamerDiabético! Este repositório é dedicado a compartilhar e discutir diversos jogos, desde clássicos até os mais recentes, curiosidades e analise de jogos. Se você é um entusiasta de jogos, desenvolvedor, ou simplesmente alguém que adora se divertir, este é o lugar certo para você!
 ![image](https://github.com/Claudio-Fatec/site-game/assets/162808729/e2e0abf7-d30d-462a-bb60-47ea6cc25c2c)
 
