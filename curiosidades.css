@@ -22,4 +22,5 @@ h2 {color: yellow;
 text-overflow: clip;
 font-style: italic;}
 
-nav a:hover{color:red;}
+nav a:hover{color:red;color:}
+nav a{color: yellow ; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
