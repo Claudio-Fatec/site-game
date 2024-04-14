@@ -20,8 +20,7 @@ font-size: larger; }
  .container {background-color: chocolate;
 font-style: border; 
 align-items:center;
-h2 text-align: center;;
-}
+ }
 
 .titulo {font-size:60% 60% 60%;
 }
@@ -29,6 +28,6 @@ h2 text-align: center;;
 .p1 {width: 50%;background-color: coral; font-family:sans-serif; display: inline-block;
 } 
  
-    
+    footer{background-color: grey; font-size: xx-large;text-align: center;}
     
     
