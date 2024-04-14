@@ -36,3 +36,5 @@ h3{text-align: center;
 color:red;
 background-color: aliceblue;
 }
+
+nav a:hover{color:red;}

@@ -21,3 +21,5 @@ h3{
 h2 {color: yellow;
 text-overflow: clip;
 font-style: italic;}
+
+nav a:hover{color:red;}
