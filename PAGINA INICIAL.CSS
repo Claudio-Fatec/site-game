@@ -29,5 +29,7 @@ align-items:center;
 } 
  
     footer{background-color: grey; font-size: xx-large;text-align: center;}
+
     
+    nav a:hover{color:red;}
     
