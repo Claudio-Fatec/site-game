@@ -1,7 +1,6 @@
 # site-game
 
-=======
-GAMERDIABÉTICO
+
 
 link site: https://gamerdiabetico.netlify.app/
 Bem-vindo ao repositório do GamerDiabético! Este repositório é dedicado a compartilhar e discutir diversos jogos, desde clássicos até os mais recentes, curiosidades e analise de jogos. Se você é um entusiasta de jogos, desenvolvedor, ou simplesmente alguém que adora se divertir, este é o lugar certo para você!
